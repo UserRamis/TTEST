@@ -1,6 +1,6 @@
 class TTEST {
 
-    fun () {
-
+    fun test (): Int {
+        return 277
     }
 }
