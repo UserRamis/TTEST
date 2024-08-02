@@ -1,6 +1,6 @@
 class TTEST {
 
     fun test (): Int {
-        return 2777777777777777777777
+        return "new 16^12"
     }
 }
